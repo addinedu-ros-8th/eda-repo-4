@@ -1,8 +1,4 @@
 import mysql.connector
-import os
-from dotenv import load_dotenv
-
-load_dotenv(".env")
 
 class DB:
     def __init__(self, host, user, passwd, port, db_name=None):
