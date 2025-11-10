@@ -151,7 +151,7 @@
 
 #### 네이버 트렌드와 환자 수의 상관관계
 
-<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fdrive.google.com/uc?id=1CyvjdY-FTRG_DcC19LSW0GsOV-CrBabz" name="trend_chart">
+<img alt="1-2 장염환자수와네이버검색어트랜드" src="https://github.com/user-attachments/assets/c22c2811-1040-4e06-afeb-3dde54a6daf9" />
 
 - 식중독 검색 트렌드와 실제 환자 수가 유사한 계절적 패턴을 보임
 - 여름철(6-8월)에 검색량과 환자 수가 동시에 급증
@@ -160,7 +160,7 @@
 
 #### 일교차와의 상관관계
 
-<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fdrive.google.com/uc?id=11UKkCocp4DS80inFfpdDFuQ69Zc7SiBh" name="trend_chart">
+<img alt="3-4 장염일교차" src="https://github.com/user-attachments/assets/4f37baac-5724-4cea-8f6e-10edd5573673" />
 
 - 서울 지역 데이터 기준으로 일교차와 식중독 발생 패턴 분석
 - 일교차가 큰 **봄철(4-5월)**과 가을철에 환자 수 증가 경향
